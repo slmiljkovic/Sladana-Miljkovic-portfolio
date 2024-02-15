@@ -9,8 +9,8 @@ I am passionate about technology, especially in the field of data analysis and v
 ## Skills
 
 - Programming Languages: Python, SQL, R
-- Data Analysis Tools: Pandas, NumPy, Matplotlib, Seaborn
-- Data Visualization Tools: Tableau, Power BI
+- Data Analysis Tools: Pandas, NumPy, Matplotlib
+- Data Visualization Tools:  Power BI
 - Database Management: MySQL, SQLite
 - Statistical Analysis: Hypothesis Testing, Regression Analysis
 
