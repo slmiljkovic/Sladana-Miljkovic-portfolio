@@ -24,7 +24,7 @@ Here are a few projects I'm proud of:
 
 - SELFIE - Self-reflection on Effective Learning by Fostering the use of Innovative Educational technologies
 - Google Workspace - database administrator
-- Top Car Sales 
+-  TOP SALES CARS
 
 ## Contact Me
 
