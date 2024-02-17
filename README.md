@@ -4,7 +4,7 @@ I'm a data analyst based in Zemun, currently working at STS. Welcome to my GitHu
 
 ## About Me
 
-I am passionate about technology, especially in the field of data analysis and visualization. With a background in [Your Field or Background], I enjoy diving into datasets, extracting insights, and presenting them in a meaningful way. My goal is to leverage technology and data to drive informed decision-making and solve complex problems.
+I am passionate about technology, especially in the field of data analysis and visualization. With a background in Education, I enjoy diving into datasets, extracting insights, and presenting them in a meaningful way. My goal is to leverage technology and data to drive informed decision-making and solve complex problems.
 
 ## Skills
 
