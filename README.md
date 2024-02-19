@@ -26,7 +26,8 @@ Goal : To  determine profit by cities and dealers, to determine profit by car mo
 Description: The project focused on analyzing a dataset of sales released between 2021 and 2022. The dataset included tree tables sales ,car models ,dealers and other relevant information. The project involved loading the data, cleaning and preprocessing it in Excel, performing exploratory data analysis (EDA)
 
 - [ TOP SALES CARS](https://github.com/slmiljkovic/SQL/commit/ed8b6d3776575ef62d52f5f072c28376d1198c8f)
-- Apple store
+  
+- [Apple store]((https://github.com/slmiljkovic/Apple-Store)
   
 - SELFIE - Self-reflection on Effective Learning by Fostering the use of Innovative Educational technologies
   
