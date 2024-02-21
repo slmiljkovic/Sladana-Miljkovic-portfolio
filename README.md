@@ -27,7 +27,7 @@ Description: The project focused on analyzing a dataset of sales released betwee
 
 - [ TOP SALES CARS](https://github.com/slmiljkovic/Top-Cars-Sale)  
 - [Apple store](https://github.com/slmiljkovic/Apple-Store)
-- Walmart store sales
+- [Walmart store sales](https://github.com/slmiljkovic/Walmart-store-sales)
   
 - SELFIE - Self-reflection on Effective Learning by Fostering the use of Innovative Educational technologies
   
